@@ -1,0 +1,23 @@
+O Horizons Lookup da NASA é uma ferramenta online usada para fornecer dados astronômicos precisos sobre corpos celestes, como planetas, asteroides, cometas, satélites e outros objetos no sistema solar. Ela é amplamente utilizada por astrônomos e cientistas para obter informações detalhadas sobre a posição e o movimento desses corpos em um dado momento.
+
+Aqui estão algumas das principais características do Horizons Lookup:
+
+Cálculos de Órbitas: O sistema calcula as posições e os parâmetros orbitais de objetos celestes com alta precisão, levando em consideração as interações gravitacionais complexas que afetam seus movimentos.
+
+Dados Personalizados: A ferramenta permite que o usuário solicite informações personalizadas, como as coordenadas de um corpo celeste em um horário específico, as efemérides (previsões de posição no futuro), e até mesmo as condições observacionais, como visibilidade de um planeta ou a distância entre dois objetos.
+
+Acesso Online: O Horizons é acessado via internet, onde o usuário pode inserir parâmetros de entrada, como o tipo de objeto, o intervalo de datas, e outros detalhes para gerar relatórios com os dados solicitados.
+
+Objetos Suportados: A base de dados inclui uma grande variedade de corpos celestes, incluindo:
+
+Planetas do sistema solar.
+Satélites naturais (como as luas de Júpiter e Saturno).
+Objetos que não fazem parte do Sistema Solar, como asteroides e cometas.
+Missões espaciais e satélites artificiais.
+Visualização e Relatórios: O sistema pode gerar tabelas e gráficos com as informações obtidas, como distâncias, posições relativas e outras métricas astronômicas.
+
+Precisão e Confiabilidade: O Horizons é um sistema altamente preciso, sendo uma das fontes confiáveis da NASA para cálculos orbitais e efemérides.
+
+Essa ferramenta é fundamental para profissionais que trabalham com dados astronômicos, permitindo modelar e analisar o movimento de objetos em órbita, seja para observações astronômicas, missões espaciais, ou estudos científicos.
+
+Para acessá-lo, você pode ir ao site oficial do Horizons da NASA e realizar consultas diretamente com base nas suas necessidades.
